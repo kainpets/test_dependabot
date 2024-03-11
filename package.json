@@ -1,0 +1,20 @@
+{
+  "name": "test_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@seamapi/nextlove-sdk-generator": "^1.5.5"
+  },
+  "dependencies": {
+    "@seamapi/types": "^1.22.1",
+    "seamapi": "^8.20.0",
+    "tsx": "^4.6.1"
+  }
+}
