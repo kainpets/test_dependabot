@@ -9,8 +9,6 @@ updates:
     allow:
       - dependency-name: "@seamapi/*"
         dependency-type: "all"
-    ignore:
-      - update-types: ["version-update:semver-major"]
     groups:
       seam:
         update-types:
